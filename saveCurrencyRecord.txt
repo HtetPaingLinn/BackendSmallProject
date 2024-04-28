@@ -1,0 +1,9 @@
+
+Thai Baht 4000  => MMK 230580
+Thai Baht 40000  => MMK 2305800
+Thai Baht 3000  => MMK 172935
+MMK 4000 => United State Dollar  1.9047619047619
+Thai Baht 8000  => MMK 461160
+Thai Baht 4000  => MMK 230580
+United State Dollar 1  => MMK 2100
+MMK 2100 => United State Dollar  1
