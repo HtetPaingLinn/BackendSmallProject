@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58eabcd1-a019-41a4-bdf8-2b64e2d66152" name="Changes" comment="" />
+    <list default="true" id="58eabcd1-a019-41a4-bdf8-2b64e2d66152" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallary.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallaryPhotoDelete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallaryProcess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sideBar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tw.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/area.php" beforeDir="false" afterPath="$PROJECT_DIR$/area.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exchangeCalculation.php" beforeDir="false" afterPath="$PROJECT_DIR$/exchangeCalculation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exchangeRate.php" beforeDir="false" afterPath="$PROJECT_DIR$/exchangeRate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exchangeRecord.php" beforeDir="false" afterPath="$PROJECT_DIR$/exchangeRecord.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/record-list.php" beforeDir="false" afterPath="$PROJECT_DIR$/record-list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saveCurrencyRecord.txt" beforeDir="false" afterPath="$PROJECT_DIR$/saveCurrencyRecord.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saveRecord.txt" beforeDir="false" afterPath="$PROJECT_DIR$/saveRecord.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +43,12 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\tools\php83\php.exe" />
@@ -35,11 +65,17 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PHP/Projects&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -79,10 +115,33 @@
       <workItem from="1713624376871" duration="778000" />
       <workItem from="1713634092091" duration="5516000" />
       <workItem from="1714083784103" duration="11000" />
+      <workItem from="1714325719029" duration="920000" />
+      <workItem from="1714892255181" duration="4000" />
+      <workItem from="1715016740902" duration="19000" />
+      <workItem from="1715284313679" duration="74000" />
+      <workItem from="1715284528926" duration="1245000" />
+      <workItem from="1715285875142" duration="1263000" />
+      <workItem from="1715351329449" duration="33884000" />
+      <workItem from="1715627970419" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

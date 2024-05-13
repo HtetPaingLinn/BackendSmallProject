@@ -11,3 +11,4 @@ width (6) * height (5) = area => 30
 width (6) * height (5) = area => 30
 width (80) * height (40) = area => 3200
 width (10) * height (20) = area => 200
+width (20) * height (40) = area => 800
